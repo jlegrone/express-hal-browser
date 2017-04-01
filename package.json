@@ -1,0 +1,22 @@
+{
+  "name": "express-hal-browser",
+  "version": "1.0.0",
+  "description": "Express wrapper for hal+json media type API browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlegrone/express-hal-browser.git"
+  },
+  "author": "Jacob LeGrone <dev@jacoblegrone.com> (https://jacoblegrone.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlegrone/express-hal-browser/issues"
+  },
+  "homepage": "https://github.com/jlegrone/express-hal-browser#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
